@@ -4,6 +4,9 @@ package com.avalia.ch1.step1;
  * Created by rahul on 1/8/17.
  */
 
+import com.avalia.ch1.step2.Customer;
+import com.avalia.ch1.step2.Movie;
+import com.avalia.ch1.step2.Rental;
 import org.junit.Test;
 
 import static org.hamcrest.Matchers.is;
